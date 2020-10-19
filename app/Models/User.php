@@ -4,6 +4,7 @@ namespace App\Models;
 
 class User extends AbstractModel
 {
+
     public function login()
     {
         $login = $_POST['login'];

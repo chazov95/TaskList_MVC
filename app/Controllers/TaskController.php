@@ -2,7 +2,7 @@
 
 namespace App\Controllers;
 
-class taskController
+class TaskController
 {
     public function add(){
 
