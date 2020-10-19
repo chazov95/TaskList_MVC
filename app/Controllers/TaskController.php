@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Controllers;
+
 class taskController
 {
     public function add(){

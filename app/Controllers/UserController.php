@@ -1,5 +1,8 @@
 <?php
-require_once('./app/Models/Connector.php');
+
+namespace App\Controllers;
+
+use App\Models\User;
 
 class userController
 {

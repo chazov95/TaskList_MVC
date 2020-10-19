@@ -1,6 +1,6 @@
 <?php
 
-require_once('./app/Models/Connector.php');
+namespace App\Models;
 
 class User extends AbstractModel
 {
