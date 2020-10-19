@@ -2,16 +2,14 @@
 
 class taskController
 {
-    public function addTask(){
+    public function add(){
 
     }
-    public function delTask(){
+    public function delete(){
 
     }
-    public function changeTaskStatus(){
+    public function update(){
 
     }
-    public function delAllTask(){
 
-    }
 }

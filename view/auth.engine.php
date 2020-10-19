@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-<form action="" method="POST">
+<form action="routes/web.php.php" method="POST">
     Логин
     <label>
         <input name="login" type="text" required>

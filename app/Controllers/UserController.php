@@ -1,15 +1,22 @@
 <?php
+require_once('./app/Models/Connector.php');
 
 class userController
 {
-    public function addUser(){
+    protected $user;
+
+    public function login()
+    {
+        $user = $this->user->login();
+    }
+
+    public function add()
+    {
 
     }
-    public function login(){
 
-    }
-
-    public function logOut(){
+    public function logOut()
+    {
 
     }
 }
