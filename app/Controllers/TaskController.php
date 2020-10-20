@@ -4,14 +4,7 @@ namespace App\Controllers;
 
 class TaskController
 {
-    public function add(){
-
-    }
-    public function delete(){
-
-    }
-    public function update(){
-
-    }
-
+public function list(){
+    return 'привет';
+}
 }

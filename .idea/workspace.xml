@@ -10,14 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c69634e-a25d-4306-a3f3-a897c6842b1f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Controllers/TaskController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/TaskController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/UserController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Task.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Task.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Route/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="5c69634e-a25d-4306-a3f3-a897c6842b1f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,12 +40,13 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CVT_Figures" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.docker/apeche" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app/Models" />
     </key>
@@ -68,7 +62,7 @@
       <workItem from="1602921255442" duration="1500000" />
       <workItem from="1603024739356" duration="5228000" />
       <workItem from="1603036843681" duration="3859000" />
-      <workItem from="1603093909558" duration="2742000" />
+      <workItem from="1603093909558" duration="14996000" />
     </task>
     <servers />
   </component>
@@ -92,18 +86,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="555" y="180" width="800" height="671" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603096651378" />
-    <state x="681" y="324" width="547" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603036922710">
+    <state x="681" y="324" width="566" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603111328360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="681" y="324" width="547" height="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603036922710" />
-    <state x="743" y="277" width="424" height="478" key="FileChooserDialogImpl" timestamp="1603039086932">
+    <state x="681" y="324" width="566" height="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603111328360" />
+    <state x="743" y="277" width="424" height="478" key="FileChooserDialogImpl" timestamp="1603138145369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="743" y="277" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603039086932" />
-    <state x="778" y="445" width="354" height="141" key="NewPhpFileDialog" timestamp="1603036596501">
+    <state x="743" y="277" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603138145369" />
+    <state x="778" y="445" width="354" height="141" key="NewPhpFileDialog" timestamp="1603138800526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="778" y="445" width="354" height="141" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603036596501" />
+    <state x="778" y="445" width="354" height="141" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603138800526" />
+    <state x="803" y="229" width="303" height="574" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1603096727953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="229" width="303" height="574" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603096727953" />
+    <state x="712" y="270" width="486" height="492" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1603138783008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="270" width="486" height="492" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603138783008" />
     <state x="750" y="378" width="400" height="271" key="scopes" timestamp="1603036556442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

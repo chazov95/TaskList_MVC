@@ -12,14 +12,4 @@ class UserController
         $user = new User();
         $user->login();
     }
-
-    public function add()
-    {
-
-    }
-
-    public function logOut()
-    {
-
-    }
 }
